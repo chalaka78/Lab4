@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="editText" />
+    <string name="btnSignup">sign up</string>
+    <string name="editText6" />
+    <string name="edittext6">Re Type Password</string>
+    <string name="btnRegister">Register</string>
+    <string name="button2">Cancel</string>
+</resources>
